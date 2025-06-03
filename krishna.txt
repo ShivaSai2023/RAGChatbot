@@ -1,0 +1,53 @@
+KRISHNA VARDHAN METTU
+krishnavardhan11@gmail.com | Ph: +1 346-668-1903 | Linkedin | Leetcode
+SUMMARY
+Experienced Software Engineer with 3+ years in automation, system maintenance, and troubleshooting. I am skilled in building and managing
+IoT-enabled systems and resolving issues across web hosting, DNS, and email. Proficient in real-time data processing, API development, and
+backend performance tuning. Strong programming in Python, Bash, C++, and SQL with solid Linux OS expertise. Familiar with SLIs, SLOs, and
+maintaining error budgets for reliable system operations.
+PROFESSIONAL EXPERIENCE
+Software Engineer, G-Think Inventors | Hyderabad, India Oct ‘20 – July ‘23
+G-Think Inventors is a Home Automation start-up which develops products to control the electrical appliances using a mobile application. As
+a Software Engineer, I got an opportunity to collaborate with multiple teams directly and gather the requirements for developing exciting
+projects. Below are my key responsibilities.
+● Built and maintained RESTful APIs using Django framework in an MVC architecture, writing clean and reliable Python code. Tested
+endpoints with Postman and created documentation to help other teams integrate smoothly.
+● Troubleshot and resolved real-time issues like bugs and connectivity problems, using Python and network tools. Also managed Overthe-Air (OTA) firmware and software updates for remote IoT devices, ensuring smooth rollouts through CI/CD pipelines with GitHub
+Actions.
+● Collaborated with hardware and data engineering teams to ensure reliable communication between IoT devices and PostgreSQL
+database using JSON and REST APIs. Also automated system diagnostics and alerts with Python, shell scripts, and AWS CloudWatch,
+this improved incident detection and reduced support tickets by 60%.
+● Maintained detailed documentation for configurations, updates, and troubleshooting to support long-term system maintenance.
+Also improved performance in resource-constrained IoT environments by profiling and optimizing code and memory usage.
+Software Engineer Intern, G-Think Inventors | Hyderabad, India June ‘19 - Oct ‘19
+As an intern I worked on automated system to generate a power utilization report which is used by households to see the energy utilized by
+individual appliance and take required action if any appliance is consuming high energy, for efficient utilization of electricity. My
+responsibility in this project is as follows.
+● Designed efficient data storage structures for smooth processing and used Python tools like NumPy and Pandas to clean and
+preprocess sensor data, ensuring reliable and accurate results.
+● Built an automated reporting tool using Matplotlib to visualize energy usage by appliance, automated process using bash script to
+run once a month for all the households to provide them with monthly energy utilization report, it is users to identify high energy
+consumption devices and make informed decisions to save energy. It helped households to save 20% of energy.
+PROJECTS
+Remote Monitoring and Control System | Java, C++, IoT Aug ‘19
+● Developed using Java and C++ programming for IoT based car controlled with Android application with live video streaming from
+anywhere within the network. Used MQTT protocol to transfer moving commands from application to Arduino robot car and HTTP
+protocol to transfer live video streaming from robot car to application.
+Self-Navigating Robotic Vacuum Cleaner | Python, Raspberry Pi May ‘20
+● Designed and developed a self-navigating robotic vacuum cleaner using Python on a Raspberry Pi on Linux operating system.
+Integrated IoT sensors to enable real-time environmental scanning and responsive cleaning actions. Achieved significant
+improvements in both cost-effectiveness and operational efficiency compared to conventional models.
+TECHNICAL SKILLS
+Programming: Python, Bash, C++, Java, JavaScript, Nodejs, Typescript, React, CSS, HTML
+Libraries/Framework/Tools: Pandas, NumPy, Django, Spring Boot, Git, Jenkins, JIRA, Postman, Docker, Kubernetes, Terraform, Grafana
+Database / Operating Systems: PostgreSQL, MongoDB, MySQL, Linux, Windows
+Cloud Technologies / Protocols: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform(GCP), FTP, TCP, HTTP, UDP, DNS, CDN
+Development Practices: Full-stack development, CI/CD, Automation, TDD, Design Patterns, Agile, SOLID, and Code Reviews
+EDUCATION
+Masters in Big Data Analytics – University of Central Missouri | 3.5/4.0 Sept ‘23 - May ‘25
+Bachelors in Computer Science and Engineering – Sreyas Institute of Engineering and technology | 8.0/10 July ‘16 - Sept ‘20
+Relevant Coursework: Distributed Systems, Operating Systems, Networking Fundamentals, Database Management, Virtualization
+CERTIFICATION
+cPanel and WHM Administrator Certification (CWA) Dec ‘20
+Cisco Certified Network Associate – Routing and Switching: Introduction to Networks June ‘18
+Python Programming – Tvashtaa Data Solutions Sept ‘17
