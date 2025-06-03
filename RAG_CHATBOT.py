@@ -19,7 +19,7 @@ if not api_key:
     raise ValueError("API key not found. Check your .env file or environment variables.")
 
 
-file_path = "C:/Users/shiva/rag_chatbot/shivasai.txt"
+file_path = "D:\RAGChatbot"
 
 # Check if file exists before loading
 if not os.path.exists(file_path):
