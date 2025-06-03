@@ -42,8 +42,8 @@ print(f"✅ Loaded {len(all_documents)} documents.")
 
 # Split text into chunks
 splitter = CharacterTextSplitter(
-    chunk_size=500,
-    chunk_overlap=50,
+    chunk_size=1000,
+    chunk_overlap=150,
     separator="\n"
 )
 chunks = splitter.split_documents(all_documents)
@@ -53,7 +53,7 @@ embedding = OpenAIEmbeddings(openai_api_key=api_key)
 
 # Build vector store
 vectorstore = FAISS.from_documents(chunks, embedding)
-retriever = vectorstore.as_retriever(search_kwargs={"k": 1})
+retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
 # Setup LLM
 llm = ChatOpenAI(
