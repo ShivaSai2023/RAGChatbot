@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 
 
@@ -19,14 +19,14 @@ if not api_key:
     raise ValueError("API key not found. Check your .env file or environment variables.")
 
 
-file_path = "D:\RAGChatbot"
+file_path = r"D:\RAGChatbot\shivasai.txt"
 
 # Check if file exists before loading
 if not os.path.exists(file_path):
     raise FileNotFoundError(f"File not found: {file_path}")
 
 # Load the file
-loader = TextLoader(file_path,encoding='utf-8')
+loader = TextLoader(file_path,encoding='utf-8')  
 documents = loader.load()
 print("Loaded documents:", documents)
 
